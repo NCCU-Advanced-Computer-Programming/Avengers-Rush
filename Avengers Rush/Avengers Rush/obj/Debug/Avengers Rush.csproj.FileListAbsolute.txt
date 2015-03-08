@@ -1,0 +1,65 @@
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Avengers Rush.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Interop.MediaPlayer.dll
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Interop.WMPDXMLib.dll
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Interop.WMPLauncher.dll
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Interop.WMPLib.dll
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Interop.WMPRichPreviewLauncher.dll
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Avengers Rush.csproj.ResolveComReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\GameWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\OptionWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Statistics.baml
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\StoreWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\GameWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\OptionWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Statistics.g.cs
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\StoreWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Avengers Rush.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Avengers Rush\Avengers Rush\bin\Debug\Avengers_Rush.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Avengers Rush\Avengers Rush\bin\Debug\Avengers_Rush.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Avengers Rush\Avengers Rush\bin\Debug\Avengers_Rush.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush_Content.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush.g.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush.pdb
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\bin\Debug\Avengers_Rush.exe.config
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Interop.MediaPlayer.dll
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Interop.WMPDXMLib.dll
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Interop.WMPLauncher.dll
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Interop.WMPLib.dll
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Interop.WMPRichPreviewLauncher.dll
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Avengers Rush.csproj.ResolveComReference.cache
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush.exe
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush.pdb
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\bin\Debug\Avengers_Rush.exe
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\bin\Debug\Avengers_Rush.pdb
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Avengers Rush.csprojResolveAssemblyReference.cache
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\GameWindow.baml
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\MainWindow.baml
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\OptionWindow.baml
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Statistics.baml
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\StoreWindow.baml
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\GameWindow.g.cs
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\MainWindow.g.cs
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\OptionWindow.g.cs
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Statistics.g.cs
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\StoreWindow.g.cs
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\App.g.cs
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush_Content.g.cs
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush_MarkupCompile.cache
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush.g.resources
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush.Properties.Resources.resources
+D:\Temp\103_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Avengers Rush.csproj.GenerateResource.Cache
+D:\Temp\102_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\bin\Debug\Avengers_Rush.exe.config
+D:\Temp\102_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Interop.MediaPlayer.dll
+D:\Temp\102_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Interop.WMPDXMLib.dll
+D:\Temp\102_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Interop.WMPLauncher.dll
+D:\Temp\102_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Interop.WMPLib.dll
+D:\Temp\102_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Interop.WMPRichPreviewLauncher.dll
+D:\Temp\102_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Avengers Rush.csproj.ResolveComReference.cache
+D:\Temp\102_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush.exe
+D:\Temp\102_WP_Final_hw100029880\101703049\Avengers Rush\Avengers Rush\obj\Debug\Avengers_Rush.pdb
